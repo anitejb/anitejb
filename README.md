@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **anitejb/anitejb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Anitej, and I'm studying Computer Science, Cognitive Science, and Mathematics at [Rutgers University](https://rutgers.edu). I'm currently a Software Development Engineer Intern at [Amazon](https://amazon.com), working on Alexa hands-free for mobile devices. I'm excited to be joining [Nextdoor](https://nextdoor.com) (a hyperlocal social networking platform) as a Software Engineering Intern during summer 2021.
+
+Last fall, I worked part time as a Learning Assistant for the [Rutgers Learning Centers](https://rlc.rutgers.edu), conducting recitations for an introductory programming course taught in MATLAB. Last summer, I worked on backend development at [MealMe](https://mealme.ai), a venture-backed food software startup. Before that, I've conducted research at [Rutgers Center of Alcohol Studies](https://alcoholstudies.rutgers.edu) involving biological applications of machine learning, and spent two summers developing data center infrastructure tools at [Bloomberg LP](https://www.bloomberg.com).
+
+I'm proficient in Python, Git, and an assortment of other languages, tools and technologies. I'm a quick learner, strong communicator, hard worker, and meaningful addition to any team I join. In my free time, I [sing](https://rutgersraag.com)!
+
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anitejb) or email me at anitej.biradar@gmail.com :)
