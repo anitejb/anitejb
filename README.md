@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Anitej, and I'm studying Computer Science, Cognitive Science, and Mathematics at [Rutgers University](https://rutgers.edu). I'm currently a Software Development Engineer Intern at [Amazon](https://amazon.com), working on Alexa hands-free for mobile devices. I'm excited to be joining [Nextdoor](https://nextdoor.com) (a hyperlocal social networking platform) as a Software Engineering Intern during summer 2021.
+Hi! My name is Anitej (he/him/his), and I'm studying Computer Science and Cognitive Science at [Rutgers University](https://rutgers.edu). I'm currently a Software Engineer Intern at [Nextdoor](https://nextdoor.com), a hyperlocal social networking platform.
 
-Last fall, I worked part time as a Learning Assistant for the [Rutgers Learning Centers](https://rlc.rutgers.edu), conducting recitations for an introductory programming course taught in MATLAB. Last summer, I worked on backend development at [MealMe](https://mealme.ai), a venture-backed food software startup. Before that, I've conducted research at [Rutgers Center of Alcohol Studies](https://alcoholstudies.rutgers.edu) involving biological applications of machine learning, and spent two summers developing data center infrastructure tools at [Bloomberg LP](https://www.bloomberg.com).
+Previously, I've put my software engineering skills to use at [Amazon](https://amazon.com) (working on Alexa hands-free for mobile devices), [MealMe](https://mealme.ai) (a venture backed food software startup - working on backend infrastructure), and [Bloomberg LP](https://www.bloomberg.com) (working on data center infrastructure operations). In addition, I've dabbled in teaching (as a Learning Assistant for an introductory programming class taught in MATLAB) and research (working on biological applications of machine learning).
 
 I'm proficient in Python, Git, and an assortment of other languages, tools and technologies. I'm a quick learner, strong communicator, hard worker, and meaningful addition to any team I join. In my free time, I [sing](https://rutgersraag.com)!
 
