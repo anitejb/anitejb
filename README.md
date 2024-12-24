@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Anitej (pronounced ɑːˌniːˈtedʒ or ʌˌniːˈθeɪdʒ)
+My name is Anitej (pronounced ɑːˌniːˈtedʒ or ʌˌniːˈθeɪdʒ)
 
 - 📍 New York, NY
 - 🔬 Software for federal healthcare research at Palantir Technologies (opinions are my own)
