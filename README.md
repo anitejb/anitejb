@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 My name is Anitej (pronounced ɑːˌniːˈtedʒ or ʌˌniːˈθeɪdʒ)
 
 - 📍 New York, NY
-- 🔬 Software for federal healthcare research at Palantir Technologies (opinions are my own)
+- 🔬 Currently working on software for federal healthcare research at Palantir Technologies (opinions are my own)
 - 💡 Interests (in no particular order): linguistics, security, research, a cappella, amateur videography/photography, scuba diving, rock climbing, mixology, supper clubs (although I'm not very good at any of these yet)
